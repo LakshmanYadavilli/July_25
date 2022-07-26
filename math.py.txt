@@ -3,6 +3,6 @@ def add(a,b):
 def sub(a,b):
 	return(a-b);#on local
 def mul(a,b):
-	pass;
+	return(a*b);#on Bug1
 def div(a,b):
 	pass;
